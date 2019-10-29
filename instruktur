@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "nama": "RAISA",
+    "keahlian": "Android Programming"
+  },
+  {
+    "id": 2,
+    "nama": "ISYANA",
+    "keahlian": "iOS Programming"
+  },
+  {
+    "id": 3,
+    "nama": "TULUS",
+    "keahlian": "CCNA"
+  },
+  {
+    "id": 4,
+    "nama": "ADAM LEVINE",
+    "keahlian": "CEH"
+  },
+  {
+    "id": 5,
+    "nama": "TAYLOR SWIFT",
+    "keahlian": "CHFI"
+  }
+  
+]
